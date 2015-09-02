@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name             = "DATAFilter"
+s.name             = "NADATAFilter"
 s.version          = "0.8.4"
 s.summary          = "Filter inserts, updates and deletions from your JSON response"
 s.description      = <<-DESC
